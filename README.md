@@ -1,6 +1,4 @@
 # Community Sentiment Analysis
-
-## Project Overview
 This project analyzes responses collected from participants through a feedback form. The analysis is conducted using various approaches such as sentiment analysis, aspect-based sentiment analysis (ABSA), thematic analysis, and data visualizations. The primary goal is to derive actionable insights for enhancing future endeavors and providing better support.
 
 ## Notebooks Included
